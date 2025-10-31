@@ -1,5 +1,6 @@
 <h1><b>⚡ Bot VPN Telegram Otomatis (Node.js + Telegraf + Pakasir) ⚡</h1></b>
-<p>Bot Telegram VPN berbasis Node.js yang modular dan stabil, dirancang untuk otomasi penuh layanan VPN (SSH/Vmess/Vless/Trojan/Shadowsocks). Dilengkapi dengan fitur manajemen server, Rate Limit, dan integrasi pembayaran otomatis.</p>
+<p>Bot Telegram VPN berbasis Node.js yang modular dan stabil, dirancang untuk otomasi penuh layanan VPN (SSH/Vmess/Vless/Trojan/Shadowsocks).<br>
+  Dilengkapi dengan fitur manajemen server, Rate Limit, dan integrasi pembayaran otomatis.</p>
 
 <h2>✨ Fitur Utama</h2>
 
